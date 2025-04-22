@@ -52,6 +52,12 @@
 
 Используемые технологии: JavaScript
 
+[Дипломное задание к курсу «Продвинутый JavaScript». Retro Game](https://github.com/aelain/js-advanced-diploma)
+
+Задача: разработка пошаговой игры
+
+Используемые технологии: JavaScript, npm, Babel, Webpack, ESLint, Jest
+
 
 ## Сертификаты Нетологии
 
