@@ -63,7 +63,7 @@
 
 [Профессия "Frontend-разработчик"](certificates/certificate_9.png)
 
-### Модули профессии:
+### Модули профессии
 
 [HTML-верстка: с нуля до первого макета](certificates/certificate_1.png)
 
